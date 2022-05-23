@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samue\\source\\repos\\Rondines\\RondinesWeb\\RondinesWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Samue\\source\\repos\\RondinesGit\\RondinesWeb\\RondinesWeb.csproj",
       "projectName": "RondinesWeb",
-      "projectPath": "C:\\Users\\Samue\\source\\repos\\Rondines\\RondinesWeb\\RondinesWeb.csproj",
+      "projectPath": "C:\\Users\\Samue\\source\\repos\\RondinesGit\\RondinesWeb\\RondinesWeb.csproj",
       "packagesPath": "C:\\Users\\Samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samue\\source\\repos\\Rondines\\RondinesWeb\\obj\\",
+      "outputPath": "C:\\Users\\Samue\\source\\repos\\RondinesGit\\RondinesWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

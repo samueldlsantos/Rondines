@@ -8,153 +8,153 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RondinesWeb
 build_property.RootNamespace = RondinesWeb
-build_property.ProjectDir = C:\Users\Samue\Source\Repos\RondinesGit\RondinesWeb\
+build_property.ProjectDir = C:\Users\Samue\source\repos\RondinesGit\RondinesWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Samue\Source\Repos\RondinesGit\RondinesWeb
+build_property.MSBuildProjectDirectory = C:\Users\Samue\source\repos\RondinesGit\RondinesWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Auth/Index.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Auth/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Dashboard/Index.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Home/Index.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Home/Privacy.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Incidentes/FormViewIncidente.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Incidentes/FormViewIncidente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRlc1xGb3JtVmlld0luY2lkZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Incidentes/Index.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Incidentes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondas/FormEditRonda.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondas/FormEditRonda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGFzXEZvcm1FZGl0Um9uZGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondas/Index.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondines/FormAddPoint.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondines/FormAddPoint.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGluZXNcRm9ybUFkZFBvaW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondines/FormAddRondin.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondines/FormAddRondin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGluZXNcRm9ybUFkZFJvbmRpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondines/FormEditPoint.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondines/FormEditPoint.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGluZXNcRm9ybUVkaXRQb2ludC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondines/FormEditRondin.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondines/FormEditRondin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGluZXNcRm9ybUVkaXRSb25kaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondines/index.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondines/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGluZXNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondines/ViewPoints.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondines/ViewPoints.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGluZXNcVmlld1BvaW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Rondines/VistaVacia.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Rondines/VistaVacia.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9uZGluZXNcVmlzdGFWYWNpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/Error.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_BlankLayout.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_BlankLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbGFua0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_footer.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_head_css.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_head_css.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9oZWFkX2Nzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_page_title.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_page_title.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYWdlX3RpdGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_right_sidebar.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_right_sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9yaWdodF9zaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_sidebar.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_title_meta.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_title_meta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF90aXRsZV9tZXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_topbar.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_topbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF90b3BiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/StatusIncidentes/FormAddStatusIncidente.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/StatusIncidentes/FormAddStatusIncidente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzSW5jaWRlbnRlc1xGb3JtQWRkU3RhdHVzSW5jaWRlbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/StatusIncidentes/FormEditStatusIncidente.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/StatusIncidentes/FormEditStatusIncidente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzSW5jaWRlbnRlc1xGb3JtRWRpdFN0YXR1c0luY2lkZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/StatusIncidentes/FormViewStatusIncidente.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/StatusIncidentes/FormViewStatusIncidente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzSW5jaWRlbnRlc1xGb3JtVmlld1N0YXR1c0luY2lkZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/StatusIncidentes/Index.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/StatusIncidentes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzSW5jaWRlbnRlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/TypesIncidentes/FormAddTypeIncidente.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/TypesIncidentes/FormAddTypeIncidente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNJbmNpZGVudGVzXEZvcm1BZGRUeXBlSW5jaWRlbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/TypesIncidentes/FormEditTypeIncidente.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/TypesIncidentes/FormEditTypeIncidente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNJbmNpZGVudGVzXEZvcm1FZGl0VHlwZUluY2lkZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/TypesIncidentes/FormViewTypeIncidente.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/TypesIncidentes/FormViewTypeIncidente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNJbmNpZGVudGVzXEZvcm1WaWV3VHlwZUluY2lkZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/TypesIncidentes/Index.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/TypesIncidentes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHlwZXNJbmNpZGVudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/_ViewImports.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/_ViewStart.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samue/Source/Repos/RondinesGit/RondinesWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/Samue/source/repos/RondinesGit/RondinesWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fmvynwdiih
