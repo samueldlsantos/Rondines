@@ -1,0 +1,47 @@
+﻿<!-- sample modal content -->
+<div id="addPoint" class="modal fade" tabindex="-1" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="myModalLabel">Agregar punto</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <div class="mt-3">
+                    <label class="mb-1">Descripción</label>
+                    <textarea id="textarea" class="form-control" maxlength="225" rows="4"
+                                placeholder="">
+                    </textarea>
+                </div>
+
+                 <div class="mt-3">
+                    <label class="form-label">Coordenadas</label>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <input class="form-control" type="text" placeholder="Lat">
+                        </div>
+                        
+                        <div class="col-md-6">
+                            <input class="form-control" type="text" placeholder="Long">
+                        </div>
+                    </div>
+                </div>
+
+                 <div class="mt-3">
+                    <label for="formFile" class="form-label">Mapa ( URL / Foto )</label>
+                    <input class="form-control" type="file" id="formFile">
+                </div>
+
+                                   
+            <div class="modal-footer">
+                
+                <button 
+                type="button" 
+                class="btn btn-primary waves-effect waves-light"
+                >Aceptar</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+</div>
