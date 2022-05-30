@@ -23,7 +23,7 @@
 
     .dropdown .show {
         &.header-item {
-            background-color: $gray-100;
+            background-color: $primary-dark-color;
         }
     }
 }
@@ -60,6 +60,7 @@
         box-shadow: none;
         border-radius: 30px;
     }
+
     span {
         position: absolute;
         z-index: 10;
@@ -67,7 +68,13 @@
         line-height: 38px;
         left: 13px;
         top: 0;
-        color: $gray-600;
+        color: $white;
+    }
+
+    input {
+        &::placeholder {
+            color: $white;
+        }
     }
 }
 

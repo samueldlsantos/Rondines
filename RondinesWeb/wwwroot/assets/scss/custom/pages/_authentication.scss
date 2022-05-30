@@ -25,12 +25,46 @@
     background-color: $card-bg;
 }
 
+.btn-primary {
+    color: $white;
+    background-color: $primary-dark-color;
+    border-color: $primary-dark-color;
 
+    &:hover {
+        color: $white;
+        background-color: rgba($primary-dark-color, .95);
+        border-color: rgba($primary-dark-color, .95);
+    }
+}
+
+.btn-danger {
+    color: $white;
+    background-color: $btn-danger-color;
+    border-color: $btn-danger-color;
+}
+
+.bg-auth-image{
+    background-image: url("../../../../assets/images/auth-1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-primary{
+    color: $white!important;
+}
+
+.page-item.active {
+    .page-link {
+        z-index: 3; 
+        color: $white;
+        background-color: $primary-dark-color;
+        border-color: $primary-dark-color;
+    }
+} 
 // auth-pass-inputgroup
-
-.auth-pass-inputgroup{
-    input[type="input"] + .btn .mdi-eye-outline{
-        &:before{
+.auth-pass-inputgroup {
+    input[type="input"] + .btn .mdi-eye-outline {
+        &:before {
             content: "\F06D1";
         }
     }

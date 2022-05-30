@@ -1,8 +1,12 @@
 // Variables
 
+//btns
+$btn-danger-color: #EC1B2F;
+
 //
 // custom-variables
 //
+$primary-dark-color: #012442;
 
 // Vertical Sidebar  Light
 $sidebar-bg: #ffffff;
@@ -16,24 +20,24 @@ $sidebar-collapsed-width:  70px;
 $sidebar-width-sm:  160px;
 
 // Vertical Sidebar - Dark
-$sidebar-dark-bg: #2a3042; //2c313a
-$sidebar-dark-menu-item-color: #a6b0cf;
-$sidebar-dark-menu-sub-item-color: #79829c;
-$sidebar-dark-menu-item-icon-color: #6a7187;
-$sidebar-dark-menu-item-hover-color: #ffffff;
-$sidebar-dark-menu-item-active-color: #ffffff;
+$sidebar-dark-bg: #012442; //2c313a
+$sidebar-dark-menu-item-color: #fff;
+$sidebar-dark-menu-sub-item-color: #fff;
+$sidebar-dark-menu-item-icon-color: #fff;
+$sidebar-dark-menu-item-hover-color: #FFAD00;
+$sidebar-dark-menu-item-active-color: #FFAD00;
 
 // Topbar - Deafult Light
 $header-height: 70px;
-$header-bg: #ffffff;
-$header-item-color: #555b6d;
+$header-bg: #012442;
+$header-item-color: #fff;
 
 // Topbar - Dark
 $header-dark-bg: #2a3042;
 $header-dark-item-color: #e9ecef;
 
 // Topbar Search
-$topbar-search-bg: #f3f3f9;
+$topbar-search-bg: #314F68;
 
 // Footer
 $footer-height: 60px;
